@@ -1,0 +1,44 @@
+#Link{
+    right: 200px;
+    left: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#Title{
+    text-align: center;
+    margin: auto;
+    color: gold;
+}
+
+#CoverArt{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Rating{
+    text-align: center;
+    margin: auto;
+    color: gold;
+}
+
+#Trailer{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#Summary{
+    text-align: center;
+    margin: auto;
+    color: gold;
+}
+
+#Actors{
+    text-align: center;
+    margin: auto;
+    color: gold;
+}
